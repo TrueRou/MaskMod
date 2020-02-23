@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mask",
+  "name": "Mask",
+  "description": "Don't forget to wear a mask.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TROU"],
+  "credits": "TROU, and who stood there to fight with virus in the forefront",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

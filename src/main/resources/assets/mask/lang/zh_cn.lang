@@ -1,0 +1,16 @@
+item.mask.fiberLeaves.name=树叶纤维
+item.mask.fiberPolypropylene.name=丙纶纤维
+item.mask.wovenLeaves.name=编织树叶
+item.mask.wovenString.name=编织丝线
+item.mask.wovenPolypropylene.name=编织丙纶
+item.mask.maskLeaves.name=树叶口罩
+item.mask.maskString.name=丝绸口罩
+item.mask.maskPolypropylene.name=丙纶聚合口罩
+item.mask.polypropyleneBottle.name=灼热的聚丙烯瓶
+tile.mask.polypropyleneBlock.name=聚丙烯结晶块
+enchantment.mask.selfCycle=水循环
+enchantment.mask.unbreakable=不毁
+tooltip.mask.maskLeaves=不能起到防护作用
+tooltip.mask.polypropyleneBottle=在聚丙烯结晶块下方用火加热, 用玻璃瓶来收集
+tooltip.mask.polypropyleneBlock=凝结硬化了数百年形成的聚丙烯废料
+itemGroup.mask=口罩模组

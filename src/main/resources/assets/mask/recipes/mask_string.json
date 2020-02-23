@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "mask:mask_string" },
+  "pattern": [
+    "XAX",
+    "XAX"
+  ],
+  "key": {
+    "A": { "item": "mask:woven_string" },
+    "X": { "item": "minecraft:string" }
+  }
+}

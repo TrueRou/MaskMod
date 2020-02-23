@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "mask:woven_leaves" },
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": { "item": "mask:fiber_leaves" }
+  }
+}

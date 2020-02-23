@@ -1,0 +1,16 @@
+item.mask.fiberLeaves.name=Leaves Fiber
+item.mask.fiberPolypropylene.name=Polypropylene Fiber
+item.mask.wovenLeaves.name=Leaves Woven
+item.mask.wovenString.name=String Woven
+item.mask.wovenPolypropylene.name=Polypropylene Woven
+item.mask.maskLeaves.name=Leaves Mask
+item.mask.maskString.name=String Mask
+item.mask.maskPolypropylene.name=Polyprolene Mask
+item.mask.polypropyleneBottle.name=Hot Polypropylene Bottle
+tile.mask.polypropyleneBlock.name=Polypropylene Crystal Block
+enchantment.mask.selfCycle=Water Cycle
+enchantment.mask.unbreakable=Unbreakable
+tooltip.mask.maskLeaves=Can't protect you.
+tooltip.mask.polypropyleneBottle=Put a fire above Polypropylene Crystal Block, and click with bottle.
+tooltip.mask.polypropyleneBlock=Pretty hard and old.It's Polypropylene Flotsam
+itemGroup.mask=Mask Mod

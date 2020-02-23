@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "mask:woven_polypropylene" },
+  "pattern": [
+    "X X",
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": { "item": "mask:fiber_polypropylene" }
+  }
+}

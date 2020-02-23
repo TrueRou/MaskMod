@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "mask:fiber_polypropylene" },
+  "pattern": [
+    "XXX",
+    "XAX",
+    "XXX"
+  ],
+  "key": {
+    "X": { "item": "minecraft:string" },
+    "A": { "item": "mask:polypropylene_bottle" }
+  }
+}
